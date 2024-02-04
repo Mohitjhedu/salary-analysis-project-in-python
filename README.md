@@ -2,6 +2,7 @@
 ## Overview
 A Python project for analyzing salary data to gain insights into compensation trends. This project utilizes Python libraries and tools to process, visualize, and interpret salary information, offering a comprehensive analysis of the data.
 
+
 ## Features
 #### Data Processing: Clean and preprocess job title data for accurate analysis.
 #### Visualization: Create insightful visualizations, such as histograms, bar charts, line plot, to represent salary distributions, trends, and other insights 
@@ -21,3 +22,5 @@ This Python Salary Analysis project aims to answer the following questions:
 10. year on year growth for da, ds,de
 11. average salary of da,ds,de based on company size
 
+## source
+ source File is also uploaded with the name of salaries.csv 
